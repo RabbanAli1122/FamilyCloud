@@ -26,7 +26,7 @@ This document tracks hardware that has been successfully tested with the FamilyC
 
 | Model | Notes | Contributor |
 |-------|-------|-------------|
-| [Huawei-HG8345R] | [Advanced Configuration > LAN configuration > DHCP Static IP Configuration] | [Rabban Ali] |
+| Huawei-HG8345R | Advanced Configuration > LAN configuration > DHCP Static IP Configuration | Rabban Ali |
 
 ## Untested But Likely Compatible
 
