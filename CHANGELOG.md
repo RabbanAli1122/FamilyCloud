@@ -47,20 +47,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automated rclone backup configuration
 - Resource monitoring dashboard
 - Two-factor authentication guide
-- Email server integration
 - Media streaming setup (Plex/Jellyfin)
 - Automated backup scheduling
 - Full-text search configuration
 - Face recognition for photos
-- GPS photo mapping
 
 ### Future Improvements
-- Docker-based installation alternative
 - Raspberry Pi specific guide
 - Hardware compatibility list
 - Video tutorial links
 - Diagram illustrations for network topology
 - RAID configuration guide
 - Automated update scripts
-- Performance optimization tips
-- Advanced security hardening
