@@ -26,7 +26,7 @@ This document tracks hardware that has been successfully tested with the FamilyC
 
 | Model | Notes | Contributor |
 |-------|-------|-------------|
-| [Add your router] | [Static IP setup method] | [Your name] |
+| [Huawei-HG8345R] | [Advanced Configuration > LAN configuration > DHCP Static IP Configuration] | [Rabban Ali] |
 
 ## Untested But Likely Compatible
 
@@ -95,6 +95,12 @@ Tested the guide on your hardware? Please contribute!
 
 ## Budget Recommendations
 
+### Performance Build ($400-600)
+- Refurbished business PC with good CPU ($200-300)
+- 2-4TB SSD ($150-250)
+- Quality accessories ($50)
+- Domain ($8-12/year)
+
 ### Ultra-Budget (Under $100 total)
 - Use a PC you already have lying around
 - Buy used HDD (500GB-1TB: $20-40)
@@ -105,12 +111,6 @@ Tested the guide on your hardware? Please contribute!
 - Refurbished mini PC ($100-150)
 - New 1-2TB HDD ($50-80)
 - Accessories if needed ($20-30)
-- Domain ($8-12/year)
-
-### Performance Build ($400-600)
-- Refurbished business PC with good CPU ($200-300)
-- 2-4TB SSD ($150-250)
-- Quality accessories ($50)
 - Domain ($8-12/year)
 
 ## Power Consumption
@@ -142,4 +142,4 @@ If running 24/7 in living space, consider noise:
 
 **Maintainer**: Rabban Ali
 
-**Contributors**: [Add your name when you contribute!]
+**Contributor(s)**: Rabban Ali
