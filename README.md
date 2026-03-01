@@ -121,7 +121,7 @@ Follow the installation wizard:
 
 8. **Profile setup**: Create your account
    - Your name: (e.g., Rabban)
-   - Server name: **jarvis** (or any name you like)
+   - Server name: **server** (or any name you like)
    - Username: (e.g., rabban)
    - Password: Choose a strong password
    - **Write these down!**
@@ -531,7 +531,7 @@ There IS a free method that worked, but with significant trade-offs:
 - Tailscale Funnel allows any domain including free ones
 - **Advantages**: Completely free, no domain cost
 - **Disadvantages**: 
-  - Ugly URL (e.g., `https://jarvis.tail36521.ts.net` or DuckDNS subdomain)
+  - Ugly URL (e.g., `https://server.tail36521.ts.net` or DuckDNS subdomain)
   - No DDoS protection - your home connection is exposed
   - If attacked, your entire home internet goes down
   - Cannot use custom professional domain easily
@@ -963,13 +963,17 @@ This project is actively being improved. Here are features planned for v2:
 ### Multi-Cloud Backup Strategy (Coming Soon)
 
 Automatically backup your Nextcloud data to multiple free cloud providers for redundancy:
-- Mega.nz (20GB free)
-- Google Drive (15GB free)
-- pCloud (10GB free)
-- Icedrive (10GB free)
-- And more...
+- Mega.nz (20GB)
+- Google Drive (15GB)
+- pCloud (10GB)
+- MediaFire (10GB)
+- Backblaze B2 (10GB)
+- Cloudflare R2 (10GB)
+- Filen (10GB)
+- Sync.com (5GB)
+- Dropbox (2GB)
 
-**Total: 107GB+ free cloud backup storage!**
+**Total: 92GB+ free cloud backup storage!**
 
 Using rclone for automated encrypted backups to protect against:
 - Drive failure
@@ -986,15 +990,11 @@ This creates a true 3-2-1 backup strategy:
 
 - **Resource monitoring dashboard** - Monitor server CPU, RAM, disk usage
 - **Two-factor authentication setup** - Extra security for logins
-- **Email server integration** - Send sharing notifications
 - **Media streaming** - Stream videos directly from your server
 - **Automated backup scheduling** - Set it and forget it
-- **Custom mobile apps** - Branded apps for your family
-- **Collaborative editing** - Real-time document collaboration like Google Docs
 - **Full-text search** - Search inside documents
 - **Music server** - Like your private Spotify
 - **Face recognition** - Auto-tag people in photos
-- **GPS photo mapping** - See where photos were taken
 
 Want to contribute? Open an issue or PR on GitHub!
 
