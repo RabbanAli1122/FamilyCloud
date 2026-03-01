@@ -1,5 +1,20 @@
 # FamilyCloud - Your Own Home Family Drive Server
 
+![GitHub stars](https://img.shields.io/github/stars/RabbanAli1122/FamilyCloud?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RabbanAli1122/FamilyCloud?style=social)
+![GitHub issues](https://img.shields.io/github/issues/RabbanAli1122/FamilyCloud)
+![GitHub last commit](https://img.shields.io/github/last-commit/RabbanAli1122/FamilyCloud)
+![GitHub license](https://img.shields.io/github/license/RabbanAli1122/FamilyCloud)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?logo=ubuntu&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-Self--Hosted-0082C9?logo=nextcloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Tunnel-F38020?logo=cloudflare&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-x86__64-lightgrey)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![beginner friendly](https://img.shields.io/badge/beginner-friendly-blue.svg)
+![No Monthly Fee](https://img.shields.io/badge/Monthly%20Fee-None-success)
+
 **Break free from Big Tech's limited storage and ridiculous prices. Build your own family cloud server at home for a fraction of the cost.**
 
 ## What is This Project?
